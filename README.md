@@ -10,7 +10,7 @@
 Main entry point for the CodeForge Powerhouse.
 """
 
-from core import forge, reliabilities
+from core import forge, reliabilit
 
 
 def run():
