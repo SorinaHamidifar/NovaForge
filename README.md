@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
 # ---------- core/forge.py ----------
 """
-Module for forging ideas into working code: experiments and prototypes.
+Module for forging ideas into working code: experiments and prototyp
 """
 
 def reverse_text(text: str) -> str:
