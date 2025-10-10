@@ -37,7 +37,7 @@ def reverse_text(text: str) -> str:
     """Reverse a string."""
     return text[::-1]
 
-deff pattern(n: int) -> str:
+def pattern(n: int) -> str:
     """Create a simple text pattern."""
     return "\n".join("*" * i for i in range(1, n + 1))
 
