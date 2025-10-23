@@ -52,7 +52,7 @@ def safe_divide(a: float, b: float):
     try:
         return a / b
     except ZeroDivisionError:
-        return None home/:
+        return None 
 
 def ensure_positive(n: float) -> float:
     """Ensure a number is positive."""
