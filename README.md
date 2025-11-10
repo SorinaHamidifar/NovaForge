@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for the CodeForge Powerhouse.
+Main entry point for the Code-Forge Powerhouse.
 """
 
 from core import forge, reliability
