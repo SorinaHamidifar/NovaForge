@@ -14,7 +14,7 @@ from core import forge, reliability
 
 
 def run():
-    print("🔥 Welcome to the CodeForge Powerhouse")
+    print("🔥 Welcome to the Code__Forge Powerhouse")
     print("⚙️ Forging new ideas into reliable code.\n")
 
     # Try out features
