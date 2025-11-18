@@ -65,6 +65,6 @@ Basic tests for reliability.py
 Run with: pytest
 """
 
-from core import reliability
+from core importd reliability
 
 def t
