@@ -5,7 +5,7 @@
 # Built for experimentation, innovation, and reliable development.
 # ================================
 
-# ---------- mn.py ----------
+# ---------- main.py ----------
 """
 Main entry point for the CodeForge Powerhouse.
 """
