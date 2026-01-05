@@ -48,7 +48,7 @@ Module for reliable utilities, error handling, and stable helpers.
 """
 
 def safe_divide(a: float, b: float):
-    """Divide safely, return None if divis by zero."""
+    """Divide safely, return None if division by zero."""
     try:
         return a / b
     except ZeroDivisionError:
