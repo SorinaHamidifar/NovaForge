@@ -51,7 +51,7 @@ def safe_divide(a: float, b: float):
     """Divide safely, return None if division by zero."""
     try:
         return a / b
-    except ZeroDivisionError:
+    except :
         return None 
 
 def ensure_positive(n: float) -> float:
