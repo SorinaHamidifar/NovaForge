@@ -61,7 +61,7 @@ def ensure_positive(n: float) -> float:
 
 # ---------- tests/test_reliability.py ----------
 """
-Basic tests for reli.py
+Basic tests for reliability.py
 Run with: pytest
 """
 
