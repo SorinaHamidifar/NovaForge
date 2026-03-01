@@ -1,7 +1,7 @@
 # ================================
 # Project: codeForge reliable Powerhouse
 # Description:
-# A powerhouse repository where new ideas are forged into working
+# A powerhouse repository where new ideas are forged into working 
 # Built for experimentation, innovation, and reliable development.
 # ================================
 
