@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for the CodeForge 
+Main entry point for the  
 """
 
 from core import forge, reliability 
