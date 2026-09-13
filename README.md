@@ -1,5 +1,5 @@
 # ================================
-# Project: codeForge reliable Powerhouse where new ideas are   
+# Project: codeForge reliable Powerhouse where new ideas    
 # Description:
 # A powerhouse repository where new ideas are forged into working code. 
 # Built for experimentation, innovation, and reliable development.
